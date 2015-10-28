@@ -1,0 +1,22 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>appId</find>
+      <find>appid</find>
+      <find>connect</find>
+      <find>TextEdit</find>
+      <find>sort</find>
+      <find>settings</find>
+      <find>community</find>
+      <find>db.init</find>
+      <find>init</find>
+      <find>db</find>
+      <find>home</find>
+      <find>QSettings</find>
+      <find>steamExi</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>LineEdit</replace>
+    </replaceStrings>
+  </component>
+</application>

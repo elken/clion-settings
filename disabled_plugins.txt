@@ -1,0 +1,7 @@
+HtmlTools
+com.jetbrains.restClient
+org.jetbrains.plugins.less
+JavaScript
+org.jetbrains.plugins.sass
+JSIntentionPowerPack
+JavaScriptDebugger

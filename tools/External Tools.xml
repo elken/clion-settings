@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="CMake" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files (x86)\CMake\bin\cmake.exe" />
+      <option name="PARAMETERS" value="C:\Users\ed\Documents\Client-appinfo.vdf -G &quot;Ninja&quot;" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/ed/.clion11/system/cmake/generated/cfe76c9f/cfe76c9f/Debug" />
+    </exec>
+  </tool>
+</toolSet>

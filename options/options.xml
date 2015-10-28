@@ -1,0 +1,33 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="evlsprt3.CL-141.1935" value="16" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="2" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/Client&#10;C:/Users/Ellis/ClionProjects&#10;C:/Users/Ellis/Documents/Client/CMakeLists.txt&#10;C:/Users/Ellis/.clion11/config&#10;C:/Users/Ellis/.CLion12/config&#10;C:/Users/Ellis/.clion11/system/cmake/generated/cfe76c9f/cfe76c9f/Debug&#10;C:/Program Files (x86)/CMake/bin/cmake.exe&#10;C:/Users/ed/Documents/Client-appinfo.vdf&#10;C:/Users/ed/Downloads/Solarized%2520Dark%2520-%2520Java%2520Based.icls.txt&#10;C:/Qt/Qt5.5.0-mingw/Tools/mingw492_32&#10;C:/Program Files/mingw-w64/x86_64-5.1.0-win32-seh-rt_v4-rev0/mingw64&#10;C:/Program Files/mingw-w64/x86_64-5.1.0-win32-seh-rt_v4-rev0&#10;C:/Program Files/mingw-w64&#10;C:/Users/ed/Documents/Client" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="lastTip" value="1" />
+    <property name="file.colors.enable.non.project" value="494539" />
+    <property name="evlsprt.CL-141.1935" value="14f053e1980" />
+    <property name="evlsprt2.CL-141.1935" value="14ec0df39b7" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="settings.code.style.selected.tab.ObjectiveC" value="Tabs and Indents" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.2" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.5" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6002587" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.splitter" value="0.3" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="evlsprt3.1" value="19" />
+    <property name="ColorChooser.RecentColors" value="147-161-161-255,,,253-246-227-255,,,255-221-255-255,,,181-137-0-255,,,38-139-210-255,,,133-153-0-255" />
+    <property name="evlsprt3.2" value="11" />
+    <property name="evlsprt3.CL-142.4859" value="13" />
+    <property name="evlsprt3.CL-142.5047" value="11" />
+    <property name="evlsprt3.CL-142.5239" value="14" />
+    <property name="evlsprt3.CL-143.249" value="10" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="evlsprt3.CL-143.380" value="18" />
+  </component>
+</application>

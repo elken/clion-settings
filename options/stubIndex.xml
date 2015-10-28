@@ -1,0 +1,13 @@
+<application>
+  <component name="FileBasedIndex">
+    <option name="registeredIndices">
+      <list>
+        <option value="dom.elementClass" />
+        <option value="dom.namespaceKey" />
+        <option value="Css.attr" />
+        <option value="Css.id" />
+        <option value="Css.class" />
+      </list>
+    </option>
+  </component>
+</application>

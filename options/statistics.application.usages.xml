@@ -1,0 +1,60 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="vcs">
+      <project id="Tom-Client" values="Git" collectionTime="1443745650590" />
+      <project id="Client" values="Git" collectionTime="1446072220051" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="Client-appinfo.vdf" values="CMakeRunConfiguration" collectionTime="1437821713878" />
+      <project id="testbed" values="CMakeRunConfiguration" collectionTime="1445730376594" />
+      <project id="Tom-Client" values="CMakeRunConfiguration" collectionTime="1443745650590" />
+      <project id="Client" values="CMakeRunConfiguration" collectionTime="1446072220053" />
+      <project id="Client-Prog-UI" values="CMakeRunConfiguration" collectionTime="1445375788359" />
+    </group>
+    <group name="file-type">
+      <project id="curlpp-0.7.3" values="ObjectiveC,XML,UNKNOWN,Mercurial file,Native,PLAIN_TEXT,CMakeLists.txt,IDEA_MODULE" collectionTime="1445375542391" />
+      <project id="Client-appinfo.vdf" values="ObjectiveC,CMakeLists.txt,UNKNOWN,PLAIN_TEXT" collectionTime="1437821713890" />
+      <project id="Tom-Client" values="Images,ObjectiveC,CSS,HTML,YAML,CMakeLists.txt,Markdown,IDEA_MODULE,XML,UNKNOWN,PLAIN_TEXT" collectionTime="1443745650612" />
+      <project id="testbed" values="ObjectiveC,UNKNOWN,IDEA_MODULE,CMakeLists.txt,PLAIN_TEXT,XML" collectionTime="1445730376604" />
+      <project id="Client-Prog-UI" values="PLAIN_TEXT,IDEA_MODULE,Images,Markdown,CMakeLists.txt,UNKNOWN,XML,ObjectiveC,CSS,Git file" collectionTime="1445375788378" />
+      <project id="Client" values="UNKNOWN,Images,Markdown,XML,PLAIN_TEXT,Git file,ObjectiveC,IDEA_MODULE,CSS,CMakeLists.txt" collectionTime="1446072220101" />
+    </group>
+    <group name="module type">
+      <project id="curlpp-0.7.3" values="CPP_MODULE" collectionTime="1445375542372" />
+      <project id="Client-appinfo.vdf" values="CPP_MODULE" collectionTime="1437821713878" />
+      <project id="Tom-Client" values="CPP_MODULE" collectionTime="1443745650590" />
+      <project id="testbed" values="CPP_MODULE" collectionTime="1445730376594" />
+      <project id="Client-Prog-UI" values="CPP_MODULE" collectionTime="1445375788359" />
+      <project id="Client" values="CPP_MODULE" collectionTime="1446072220052" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="cidr.formatter.cs.allman" count="1" />
+      <entry feature="execute.CMakeRunConfiguration.Debug" count="29" />
+      <entry feature="execute.CMakeRunConfiguration.Run" count="748" />
+      <entry feature="ide.help.reference.tool.windows.cmake.cache" count="1" />
+      <entry feature="ide.settings.Appearance" count="12" />
+      <entry feature="ide.settings.C/C++" count="2" />
+      <entry feature="ide.settings.CMake" count="18" />
+      <entry feature="ide.settings.Code_Style" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="8" />
+      <entry feature="ide.settings.Console_Colors" count="1" />
+      <entry feature="ide.settings.Debugger" count="1" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="2" />
+      <entry feature="ide.settings.Font" count="4" />
+      <entry feature="ide.settings.General" count="3" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ide.settings.Keymap" count="1" />
+      <entry feature="ide.settings.Language_Defaults" count="1" />
+      <entry feature="ide.settings.Toolchains" count="3" />
+      <entry feature="idea.caches.invalidated" count="1" />
+      <entry feature="ideaapp.started" count="48" />
+      <entry feature="welcome.screen.OpenCPPProject" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure.Import" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="7" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,87 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="C:\Users\Ellis\ClionProjects\Client" />
+        <option value="C:\Users\Ellis\ClionProjects\testbed" />
+        <option value="C:\Users\Ellis\Downloads\Client-Prog-UI\Client-Prog-UI" />
+        <option value="C:\Users\Ellis\Downloads\curlpp-0.7.3\curlpp-0.7.3" />
+        <option value="C:\Users\Ellis\Documents\Client" />
+        <option value="C:\Users\Ellis\ClionProjects\Tom-Client" />
+        <option value="C:\Users\ed\Documents\Client" />
+        <option value="C:\Users\ed\Documents\Client-appinfo.vdf" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="C:\Users\Ellis\ClionProjects\Client" />
+      </list>
+    </option>
+    <option name="lastPath" value="C:\Users\Ellis\ClionProjects\Client" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="C:\Users\Ellis\ClionProjects\Client">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-143.380" />
+              <option name="productionCode" value="CL" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="C:\Program Files (x86)\JetBrains\CLion 143.380.21\bin" />
+              <option name="projectOpenTimestamp" value="1446072359492" />
+              <option name="buildTimestamp" value="1445990400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Ellis\ClionProjects\testbed">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-143.249" />
+              <option name="productionCode" value="CL" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="C:\Program Files (x86)\JetBrains\CLion 143.249.8\bin" />
+              <option name="projectOpenTimestamp" value="1445729157602" />
+              <option name="buildTimestamp" value="1444777200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Ellis\Documents\Client">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-143.249" />
+              <option name="productionCode" value="CL" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="C:\Program Files (x86)\JetBrains\CLion 143.249.8\bin" />
+              <option name="projectOpenTimestamp" value="1445264875726" />
+              <option name="buildTimestamp" value="1444777200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Ellis\Downloads\Client-Prog-UI\Client-Prog-UI">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-143.249" />
+              <option name="productionCode" value="CL" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="C:\Program Files (x86)\JetBrains\CLion 143.249.8\bin" />
+              <option name="projectOpenTimestamp" value="1445375542584" />
+              <option name="buildTimestamp" value="1444777200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Users\Ellis\Downloads\curlpp-0.7.3\curlpp-0.7.3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-143.249" />
+              <option name="productionCode" value="CL" />
+              <option name="eap" value="true" />
+              <option name="binFolder" value="C:\Program Files (x86)\JetBrains\CLion 143.249.8\bin" />
+              <option name="projectOpenTimestamp" value="1445375527884" />
+              <option name="buildTimestamp" value="1444777200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="C:\Users\Ellis\ClionProjects" />
+  </component>
+</application>

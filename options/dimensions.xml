@@ -1,0 +1,47 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="570" y="267" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="959" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="667" y="336" />
+    <location key="SettingsEditor.0.0.1920.1080" x="547" y="174" />
+    <location key="EditParametersPopupWindow.0.0.1920.1080" x="764" y="387" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="1438" y="924" />
+    <location key="#Build_All.0.0.1920.1080" x="969" y="231" />
+    <location key="git4idea.branch.GitSmartOperationDialog.0.0.1920.1080" x="677" y="244" />
+    <location key="DiffContextDialog.0.0.1920.1080" x="184" y="82" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080" x="602" y="151" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1080" x="675" y="405" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.0.0.1920.1080" x="532" y="263" />
+    <location key="#com.intellij.tools.ToolEditorDialog.0.0.1920.1080" x="623" y="181" />
+    <location key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey.0.0.1920.1080" x="839" y="301" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="414" y="175" />
+    <location key="#ProjectAscension.0.0.1920.1080" x="720" y="279" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1920.1080" x="540" y="178" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="540" y="178" />
+    <location key="Github.CreateGistDialog.0.0.1920.1080" x="807" y="417" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1920.1080" x="688" y="317" />
+    <location key="SimpleOpenTaskDialog.0.0.1920.1080" x="731" y="406" />
+    <location key="MergeDialog.0.0.1920.1080" x="176" y="57" />
+    <location key="MultipleFileMergeDialog.0.0.1920.1080" x="658" y="252" />
+    <location key="GitCloneDialog.0.0.1920.1080" x="649" y="333" />
+    <location key="StructurePopup.0.0.1920.1080" x="653" y="324" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.1920.1080" x="1158" y="216" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1920.1080" x="794" y="139" />
+    <location key="#Updates.0.0.1920.1080" x="741" y="399" />
+    <size key="EditParametersPopupWindow.0.0.1920.1080" width="637" height="275" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="187" height="109" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1898" height="284" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1898" height="284" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1898" height="284" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1898" height="284" />
+    <size key="SettingsEditor.0.0.1920.1080" width="948" height="697" />
+    <size key="CommitChangelistDialog2.0.0.1920.1080" width="715" height="589" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1898" height="350" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1898" height="350" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1898" height="350" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1898" height="350" />
+    <size key="GitCloneDialog.0.0.1920.1080" width="620" height="221" />
+    <size key="StructurePopup.0.0.1920.1080" width="602" height="367" />
+    <size key="NewCMakeProjectWizard.0.0.1920.1080" width="500" height="200" />
+  </component>
+</application>
